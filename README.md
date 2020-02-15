@@ -15,4 +15,6 @@
 - RictyDiminishedDiscord-Regular(font)
 - yutapon codeing (font)
 - prezto (theme steeef)
-- 
+- ssh-keygen & register to github
+- change key-repeat speed (defaults command) & reboot
+- mouse button settings
