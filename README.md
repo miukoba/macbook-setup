@@ -6,14 +6,18 @@
 - jetbrains toolbox
 - better touch tool
 - karabiner elements
-- Logicool G HUB
-- xcode
-- iterm
+- SteerMouse
+- iTerm
 - homebrew
 - RictyDiminishedDiscord-Regular(font)
 - yutapon codeing (font)
-- prezto (theme steeef)
+- Zim (theme steeef)
 - ssh-keygen & register to GitHub
 - change key-repeat speed (defaults command) & reboot
-- mouse button settings
 - tig
+- https://github.com/miukoba/dotfiles-mac
+- XCode Command Line Tools 
+- Alfred
+- Hot.app
+- Shottr
+- Kindle
