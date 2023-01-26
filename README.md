@@ -1,23 +1,29 @@
 # macbook setup memo
 
 - chrome
-- firefox
 - google japanese input
+  - <img width="589" alt="image" src="https://user-images.githubusercontent.com/345965/214770314-fb48c537-4945-4c57-8246-333c29b25d02.png">
 - jetbrains toolbox
 - better touch tool
+  - <img width="368" alt="image" src="https://user-images.githubusercontent.com/345965/214770495-f021689d-c536-4932-beaa-84ad6ab08856.png">
 - karabiner elements
+  - <img width="516" alt="image" src="https://user-images.githubusercontent.com/345965/214770661-007494cf-4601-4db3-8afb-93d83fe53917.png">
 - SteerMouse
-- iTerm
-- homebrew
 - RictyDiminishedDiscord-Regular(font)
-- yutapon codeing (font)
+- iTerm
+  - <img width="931" alt="image" src="https://user-images.githubusercontent.com/345965/214770809-02e51c8c-83a4-48c6-955a-184d416a2a8e.png">
+- homebrew
 - Zim (theme steeef)
 - ssh-keygen & register to GitHub
 - change key-repeat speed (defaults command) & reboot
-- tig
+- brew install tig
+- brew install direnv
+- brew install jq
+- brew install gh
+  - gh auth login
+  - gh alias set open 'repo view --web'
 - https://github.com/miukoba/dotfiles-mac
 - XCode Command Line Tools 
-- Alfred
-- Hot.app
+- Raycast
 - Shottr
 - Kindle
