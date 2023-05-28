@@ -9,12 +9,13 @@
 - karabiner elements
   - <img width="516" alt="image" src="https://user-images.githubusercontent.com/345965/214770661-007494cf-4601-4db3-8afb-93d83fe53917.png">
 - SteerMouse
-- RictyDiminishedDiscord-Regular(font)
 - iTerm
   - <img width="931" alt="image" src="https://user-images.githubusercontent.com/345965/214770809-02e51c8c-83a4-48c6-955a-184d416a2a8e.png">
+- Firge(font)
 - homebrew
 - Zim (theme steeef)
 - ssh-keygen & register to GitHub
+- brew install peco
 - brew install tig
 - brew install direnv
 - brew install jq
@@ -23,6 +24,7 @@
   - gh alias set open 'repo view --web'
 - https://github.com/miukoba/dotfiles-mac
 - XCode Command Line Tools 
+- jimeh/zsh-peco-history
 - Raycast
 - Shottr
 - Kindle
