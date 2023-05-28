@@ -1,5 +1,10 @@
 # macbook setup memo
 
+- Finder
+  - すべてのファイル名拡張子を表示
+  - 新規Finderウィンドウで次を表示: ダウンロード
+  - ステータスバーを表示
+  - パスバーを表示
 - chrome
 - google japanese input
   - <img width="589" alt="image" src="https://user-images.githubusercontent.com/345965/214770314-fb48c537-4945-4c57-8246-333c29b25d02.png">
