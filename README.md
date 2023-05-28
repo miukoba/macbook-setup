@@ -15,7 +15,6 @@
 - homebrew
 - Zim (theme steeef)
 - ssh-keygen & register to GitHub
-- change key-repeat speed (defaults command) & reboot
 - brew install tig
 - brew install direnv
 - brew install jq
