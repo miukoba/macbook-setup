@@ -1,5 +1,9 @@
 # macbook setup memo
 
+- System Settings
+  - ナチュラルなスクロール オフ
+  - フルスクリーンアプリケーション間をスワイプ 4本指
+  - Mission Control 4本指
 - Finder
   - すべてのファイル名拡張子を表示
   - 新規Finderウィンドウで次を表示: ダウンロード
