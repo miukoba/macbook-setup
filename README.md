@@ -18,6 +18,8 @@
 - karabiner elements
   - <img width="516" alt="image" src="https://user-images.githubusercontent.com/345965/214770661-007494cf-4601-4db3-8afb-93d83fe53917.png">
 - SteerMouse
+  - <img width="457" alt="image" src="https://github.com/miukoba/macbook-setup/assets/345965/8d19f03f-ada8-4c24-b4a3-b8e32d7b13b6">
+  - <img width="597" alt="image" src="https://github.com/miukoba/macbook-setup/assets/345965/6bf0169d-82a9-4111-bff3-c972916ea6d4">
 - iTerm
   - <img width="931" alt="image" src="https://user-images.githubusercontent.com/345965/214770809-02e51c8c-83a4-48c6-955a-184d416a2a8e.png">
 - Firge(font)
